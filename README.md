@@ -16,7 +16,7 @@ Technology Stack
     Discord API
     Python (Flask/Django)
     Database (MySQL, PostgreSQL, etc.)
-    Machine Learning Algorithms (Optional)
+    Minstrel-Orca-7b
 
 Getting Started
 Prerequisites
@@ -30,7 +30,7 @@ Installation
 
     bash
 
-git clone https://github.com/YourUsername/Syntheia.git
+git clone https://github.com/elder-plinius/Syntheia.git
 
 Navigate to the project directory and install dependencies:
 
@@ -53,5 +53,3 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-Feel free to customize this README to better fit the specifics of your project. Would you like to proceed with developing the code for a specific component of Syntheia?

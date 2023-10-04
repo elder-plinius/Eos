@@ -1,14 +1,17 @@
-Syntheia: Myelinating Intelligent Collaboration
+EOS: Everything Open Source 
+Myelinating Intelligent Collaboration
+
 Overview
 
-Syntheia is an advanced Discord bot designed to optimize and streamline collaboration among individuals and groups (referred to as tribes) based on their skills and capabilities. Named for its emphasis on synthesis and divine insight, this project aims to revolutionize project management and peer-based ranking within Discord communities. The term "myelination" is borrowed from neuroscience to symbolize the enhancement and optimization of pathways for effective collaboration and task management.
+Syntheia is an advanced Discord bot designed to optimize and streamline open collaboration among individuals and groups (tribes) based on their skills and capabilities. Named for the Greek goddess of the dawn, this project aims to disperse the light of innovation and revolutionize project management by creating a communication layer across multiple communities. The term "myelination" is borrowed from neuroscience to symbolize the enhancement and optimization of pathways for effective collaboration and task management.
+
 Features
 
     User Authentication & Profile Management: Users can set and update their skills and abilities.
     Peer-based Ranking System: Users can rate each other's skills and abilities.
     Multi-server Communication: Operates seamlessly across multiple Discord servers.
     Project Management: Create, join, and manage projects with ease.
-    Dynamic Task Assignment: Syntheia intelligently assigns tasks based on individual and tribal skills.
+    Dynamic Task Assignment: EOS intelligently assigns tasks based on individual and tribal skills.
     AI Myelination Layer: Real-time project status tracking, deadlines, and dependencies management optimized for effective collaboration.
 
 Technology Stack
@@ -30,13 +33,13 @@ Installation
 
     bash
 
-git clone https://github.com/elder-plinius/Syntheia.git
+git clone https://github.com/elder-plinius/EOS.git
 
 Navigate to the project directory and install dependencies:
 
 bash
 
-cd Syntheia
+cd EOS
 pip install -r requirements.txt
 
 Set up your Discord bot token and other environment variables.

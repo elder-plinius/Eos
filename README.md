@@ -1,4 +1,4 @@
-EOS: Everything Open Source 
+Eos: Everything Open Source 
 Myelinating Intelligent Collaboration
 
 Overview

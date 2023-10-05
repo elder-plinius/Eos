@@ -3,7 +3,7 @@ Myelinating Intelligent Collaboration
 
 Overview
 
-Every day, thousands of open source developers work on the same problems in small circles. This is an inefficient system design which results in resource inefficiency, slow information dispersal, and countless missed opportunities for synergy. EOS is an advanced Discord bot designed to optimize and streamline open source collaboration among individuals and groups (tribes) based on their skills and capabilities. Named for the Greek goddess of the dawn, this project aims to disperse the light of innovation and revolutionize project management by creating a communication layer across multiple communities. The term "myelination" is borrowed from neuroscience to symbolize the enhancement and optimization of pathways for effective collaboration and task management.
+Every day, thousands of open source developers work on the same problems in small circles. This is an inefficient system design which results in resource inefficiency, slow information dispersal, and countless missed opportunities for synergy. Eos is an advanced Discord bot designed to optimize and streamline open source collaboration among individuals and groups (tribes) based on their skills and capabilities. Named for the Greek goddess of the dawn, this project aims to disperse the light of innovation and revolutionize project management by creating a communication layer across multiple communities. The term "myelination" is borrowed from neuroscience to symbolize the enhancement and optimization of pathways for effective collaboration and task management.
 
 Features
 
@@ -33,7 +33,7 @@ Installation
 
     bash
 
-git clone https://github.com/elder-plinius/EOS.git
+git clone https://github.com/elder-plinius/Eos.git
 
 Navigate to the project directory and install dependencies:
 
